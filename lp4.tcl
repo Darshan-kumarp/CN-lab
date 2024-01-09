@@ -46,6 +46,3 @@ $ns at 0.1 "$cbr start"
 $ns at 1.0 "$cbr stop"
 $ns at 1.5 "finish"
 $ns run
-
-
-
