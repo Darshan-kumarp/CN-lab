@@ -1,7 +1,5 @@
 set ns [new Simulator]
 
-$ns color 1 blue
-
 set nam [open out.nam w]
 $ns namtrace-all $nam
 
